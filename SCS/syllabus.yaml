@@ -1,0 +1,38 @@
+INSTALLATION & EXTENSIONS & REQUIREMENTS:
+node,typescript global install , js & ts  nightly , esLint, prettier esLint  ,pretty ts error 
+
+TYPECONFIG: (commands)
+  tsc --init 
+  tsc --watch (real time per changement hota rahega ) note autosave is mendetery  on  
+
+
+LET'S WRITE SOME CODE :
+Basic Types
+• Number, String, Boolean
+• Arrays, Tuples
+• Any, Unknown, Never,void 
+• Enums
+
+
+Type Inference - (infered ka mtlb hota h khud se guess ) Apne aap ko dekr jo ye value infreed krte h use type inference ko bolte h  
+Union and Intersection
+Type Aliases
+Interfaces
+
+Classes:
+• Constructors
+• Public, Private, Protected Members
+• Readonly Properties
+•Getters and Setters
+
+Functions:
+• Function Types
+• Optional and Default Parameters Modules
+• Export and Import
+
+Type Assertions:
+
+Literal Types:
+• String Literal Types
+• Numeric Literal Types
+• Boolean Literal Types
